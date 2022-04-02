@@ -28,7 +28,6 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: end;
-    height: 100vh;
 }
 
 .content {
